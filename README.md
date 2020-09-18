@@ -13,5 +13,5 @@ The money of all entities in the chain was under threat based on the mode of pay
 • Value proposition: Minimize credit card fraud transactions, therefore no fraudulent transaction to be considered unfraudulent at the cost of a few unfraudulent transactions speculated to be fraudulent. • To help financial companies to correctly predict fraudulent transactions.
 
 # RESULT
-Optimized model giving Recall of 90.807% on the test data without compromising with the accuracy a lot.
+Isolation Forest Method performed much better in determining the fraud cases which is around 30% with 99.74% accuracy. 
 
