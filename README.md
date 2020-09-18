@@ -1,2 +1,2 @@
-# My-First-Project
+# Credit Card Fraud Detection
 Sample Project
